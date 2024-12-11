@@ -1,0 +1,36 @@
+export default [
+    {
+        id:1,
+        postedOn: '2024-12-4',
+        title: 'Full Stack Developer',
+        Company: 'Google',
+        type: 'Full-Time',
+        experience: 'Fresher',
+        location: 'Remote',
+        skills:  ["JAVA", "SQL", "PHP"],
+        Job_link: "https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FHouse%20Ads%2FBKWS_LOC2",
+    },
+    {
+        id:2,
+        postedOn: '2024-12-5',
+        title: 'Mern Stack Developer',
+        Company: 'Amazon',
+        type: 'Full-Time',
+        experience: 'Mid-Level',
+        location: 'In-Office',
+        skills:  ["React JS", "Node js", "Mongo DB"],
+        Job_link: "https://www.amazon.jobs/en/search?base_query=&loc_query=India&latitude=&longitude=&loc_group_id=&invalid_location=false&country=IND&city=&region=&county=",
+    },
+    {
+        id:3,
+        postedOn: '2024-12-3',
+        title: 'UIUX Designer',
+        Company: 'Wipro',
+        type: 'Full-Time',
+        experience: 'Senior-Level',
+        location: 'Hybrid',
+        skills:  ["Figma", "Adobe XD","Sketch" ],
+        Job_link: "https://careers.wipro.com/global-india",
+    },
+    
+]
